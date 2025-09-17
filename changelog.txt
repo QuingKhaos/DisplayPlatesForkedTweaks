@@ -1,3 +1,7 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: ????
+  Changes:
+    - [item=copper-display-small][item=copper-display-medium][item=copper-display] Change subgroup to circuit-visual if SchallCircuitGroup is installed.
+    - [item=iron-display-small][item=iron-display-medium][item=iron-display] Change subgroup to circuit-visual if SchallCircuitGroup is installed.
+    - [item=steel-display-small][item=steel-display-medium][item=steel-display] Change subgroup to circuit-visual if SchallCircuitGroup is installed.
